@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="apple-touch-icon" sizes="180x180" href="Images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="Images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="Images/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <script src="https://kit.fontawesome.com/aada8ab393.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="vacancy.css">
+    <title>Vacancy</title>
+</head>
+<body>
+    <header>
+        <img src="Images/logo.png" alt="Hospital Logo" id="logo-image">
+        <div style="display: inline-block; font-size: 25px; position: absolute;top: 20px; left: 100px; padding: 5px; box-sizing: content-box; color: white;"><b>SwiCare</b></div>
+        <nav-bar>
+            <li style="list-style: none;">
+            <ul class="nav_item">
+                <a href="Home.html">
+                    Home
+                </a>
+            </ul>
+            <ul class="nav_item">
+                <a href="About_Us.html" >
+                    About Us
+                </a></ul>
+            <ul class="nav_item">
+                <a href="">
+                    Health Library
+                </a>
+            </ul>
+            <ul class="nav_item"><a href="http://">Consultation</a></ul>
+            <ul class="nav_item"><a href="donations.html">Donation</a></ul>
+            <ul class="nav_item"><a href="vacancy.html" class="active">Job Vacancy</a></ul>
+            </li>
+        </nav-bar>
+        <form>
+            <button type="submit" id="reg_btn" formaction=""> <!--Input the accurate webpage once ready-->
+            Login/Signup
+            </button>
+        </form>
+        
+    </header>
+
+
+    <div class="head">
+        <h1 style="text-align: center;">Vacant Jobs</h1>
+    </div>
+    <div class="head">
+        <h2  id="form-title" style="text-align: center;">Application Form</h2>
+    </div>
+    <div id="application-form">
+        <form action="#">
+            <div id="main-user-info">
+                <div class="user-input-box">
+                    <label for="first-name">
+                        First Name
+                    </label>
+                    <input type="text" name="first-name" id="first-name">
+                </div>
+                <div class="user-input-box">
+                    <label for="last-name">
+                        Last Name
+                    </label>
+                    <input type="text" name="last-name" id="last-name">
+                </div>
+                <div class="user-input-box">
+                    <label for="email">
+                        Email
+                    </label>
+                    <input type="email" name="email" id="email">
+                </div>
+                <div class="user-input-box">
+                    <label for="phone">
+                        Phone No.
+                    </label>
+                    <input type="tel" name="phone" id="phone">
+                </div>
+                <div class="user-input-box">
+                    <label for="state-of-residence">
+                        State of Residence
+                    </label>
+                    <select name="state-of-residence" id="state-of-residence">
+                        <option value="abia">Abia</option>
+                        <option value="adamawa">Adamawa</option>
+                        <option value="akwa ibom">Akwa Ibom</option>
+                        <option value="anambra">Anambra</option>
+                        <option value="bauchi">Bauchi</option>
+                        <option value="bayelsa">Bayelsa</option>
+                        <option value="rivers">Rivers</option>
+                        <option value="lagos">Lagos</option>
+                        <option value="abuja">Abuja</option>
+                    </select>
+                </div>
+            </div>
+            <div id="application-btn">
+                <input type="submit" value="Apply For Job">
+            </div>
+        </form>
+    </div>
+
+
+    <footer>
+        <img src="Images/logo.png" alt="Hospital Logo" style="height: 150px; width: 150px;">
+        
+        <div style="font-size: 20px; text-indent: 6%; position: absolute; width: 50%; left: 0;
+        top: 130px; color: white;">SwiCare exists for your wellbeing. We provide 24 hours Healthcare services</div>
+    
+        <div style="padding-top: 30px; text-indent: 3%; color: white;">
+          <div style="display: block; font-size: medium;">
+            <i class='fa fa-map-marker-alt' style='font-size:32px;'></i>
+            63781 Pffer Lake, Ernserview
+          </div>
+    
+          <br>
+    
+          <div style="display: block;">
+            <i class="fa fa-envelope" style="font-size:32px"></i>
+          SwiCare_centre@gmail.com
+          </div>
+          
+          <br>
+    
+          <div style="display: block;">
+            <i class="fa fa-phone" style="font-size:32px;"></i>
+          +735-927-1972
+          </div>
+          
+        </div>
+        <div style="position: absolute;
+        right: 5px; top: 25%;">
+          <h3 style="margin-right: 270px; color: white;">NewLetter</h3>
+    
+          <form >
+            <input type="email" name="" id=""value="Enter E-mail" style="height: 40px; width: 250px; padding: 10px; border: none; border-radius: 15px 0 0 15px; position: absolute; right: 87px; outline: 0;" onfocus="if (this.value == 'Enter E-mail') {this.value=''} " required>
+            <button type="submit" style="font-size: 26px;padding: 5px; position: absolute; right: 0; background-color: rgb(194, 134, 221); color: whitesmoke; border: none; border-radius: 0 15px 15px 0;">
+              Sign Up
+            </button> <!--Make it actually submit to a database-->
+          </form>
+    
+          <div style=" position: absolute;
+          bottom: -100px; height: max-content; color: white; font: 62px; width:300px; height: 200px; position: absolute; top: 80%;">
+            <h3 style="margin-top: 25%;">Contact Us</h3>
+            <i class="fa-brands fa-x-twitter" style="font-size: 24px; color: white; padding: 15px;"><a href=""></a></i>
+            <i class="fa-brands fa-instagram" style="font-size: 24px; color: white; padding: 15px;"><a href=""></a></i>
+            <i class="fa-brands fa-discord" style="font-size: 24px; color: white; padding: 15px;"><a href=""></a></i>
+            <i class="fa-brands fa-facebook" style="font-size: 24px; color: white; padding: 15px;"><a href=""></a></i>
+            <!--There should be links on these icons -->
+          </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <hr>
+        <foot class="span" id="c_rights">
+          &copy;SwiCare 2024. All Rights Reserved
+        </foot>
+        <foot class="span" id="g_name">
+          Designed By: TECH INNOVATION TEAM
+        </foot>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,3273 @@
+.copyright {
+    margin-right: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    box-sizing: border-box;
+  }
+  .vector {
+    width: 20px;
+    height: 20px;
+  }
+  .swi-care-all-right-reserved {
+    margin: 2px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .copyright-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .designed-by-tech-innovation-team {
+    margin: 2px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .footer-section-2 {
+    border-top: 1px solid #FFFFFF;
+    background: #423155;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 0 10px 0;
+    width: 1728px;
+    box-sizing: border-box;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1728px;
+    box-sizing: border-box;
+  }
+  .hero-section {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0), #000000), url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/d47e32c1ebe57f3eafdbe45a09d2fe422e75a79a?Expires=1712145960&KeyName=fn12-cdn&Signature=SHgg51hVUywwD-TfGBuKI5qQ5ys=') 50% / cover no-repeat;
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 0 149px 0;
+    width: 1728px;
+    box-sizing: border-box;
+  }
+  .landing-page {
+    background: #F5EEFD;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1728px;
+    box-sizing: border-box;
+  }
+  .welcome-to-swi-care {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1;
+    text-transform: capitalize;
+    color: #BC8CF2;
+  }
+  .best-place-to-get-your-health-challenges-solved {
+    overflow-wrap: break-word;
+    font-family: var(--h-1-bold-font-family, 'Lato');
+    font-weight: var(--h-1-bold-font-weight, 700);
+    font-size: var(--h-1-bold-font-size, 48.8px);
+    line-height: var(--h-1-bold-line-height, 1);
+    text-transform: var(--h-1-bold-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .meduim-button {
+    border-radius: 16px;
+    background: var(--white-blue-normal, #BC8CF2);
+    margin-right: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 16.5px 1.6px 16.5px 0;
+    width: 207px;
+    box-sizing: border-box;
+  }
+  .meduim-button-2 {
+    border-radius: 16px;
+    border: 1px solid #BC8CF2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 15.5px 1.9px 15.5px 0;
+    width: 207px;
+    box-sizing: border-box;
+  }
+  .frame-1 {
+    border-bottom: 2px solid var(--white-blue-lightactive, #EADBFB);
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 4px 4.9px 2px 0;
+    box-sizing: border-box;
+  }
+  .frame-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .text-frame {
+    margin-bottom: 89px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .cta-butttons {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 430px;
+    box-sizing: border-box;
+  }
+  .ctatext {
+    margin-right: 685.7px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .swi-care {
+    margin: 11.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--h-4-med-font-family, 'Lato');
+    font-weight: var(--h-4-med-font-weight, 600);
+    font-size: var(--h-4-med-font-size, 25px);
+    line-height: var(--h-4-med-line-height, 1);
+    text-transform: var(--h-4-med-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .logo {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .about {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .consultation {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .h-library {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .donation {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .j-vacancy {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .frame-3 {
+    margin: 16px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 739.2px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1030.2px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .nav-group {
+    border-bottom: 1px solid #454545;
+    margin-bottom: 73px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1px 0;
+    width: 1728px;
+    box-sizing: border-box;
+  }
+  .small-button-button-smallicon {
+    border-radius: 8px;
+    background: #BC8CF2;
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    padding: 9.5px 14.1px 9.5px 12px;
+    box-sizing: border-box;
+  }
+  .about-us {
+    overflow-wrap: break-word;
+    font-family: var(--h-2-bold-font-family, 'Lato');
+    font-weight: var(--h-2-bold-font-weight, 700);
+    font-size: var(--h-2-bold-font-size, 39.1px);
+    line-height: var(--h-2-bold-line-height, 1);
+    text-transform: var(--h-2-bold-text-transform, capitalize);
+    color: var(--white-blue-darkactive, #553F6D);
+  }
+  .rectangle-1 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/e49bfb192e457af8e4ee03eccb3ce569de4fce09?Expires=1712145960&KeyName=fn12-cdn&Signature=0tpTuxm4V6w760nqVv3GfJ0Nh2M=') 50% / cover no-repeat;
+    margin: 243px 24px 181px 0;
+    width: 200px;
+    height: 400px;
+  }
+  .rectangle-2 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/31f11fe1ee0abafd4da92ca304b4239ecedda77f?Expires=1712145960&KeyName=fn12-cdn&Signature=7QcTot4TD4BOdJY67F5W5VqELEM=') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+    margin-bottom: 24px;
+    width: 200px;
+    height: 400px;
+  }
+  .rectangle-3 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/64b5355ec16e73288601ebe21947f7fb7c9516b5?Expires=1712145960&KeyName=fn12-cdn&Signature=B7LQyaBsQCbHyMxPriL7bn5gtvE=') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+    margin: 243px 0 181px 0;
+    width: 200px;
+    height: 400px;
+  }
+  .rectangle-4 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/a5af85224d88e9d1eb326bbe0888c23ed83fa0c8?Expires=1712145960&KeyName=fn12-cdn&Signature=W8Qbp6V4mUmpUoO8lrGFm1yf4Y4=') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+    width: 200px;
+    height: 400px;
+  }
+  .rectangle-5 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/f99e013ea3fb0278baee34bffc169c2adcede744?Expires=1712145960&KeyName=fn12-cdn&Signature=C7004CWslvTGknkvHoPrzjtG_SU=') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+    position: absolute;
+    top: 0px;
+    right: -224px;
+    width: 200px;
+    height: 400px;
+  }
+  .rectangle-6 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/2384a4f24106a46c0b5c2a0ae6ebec8a96995738?Expires=1712145960&KeyName=fn12-cdn&Signature=OZqU1RejQSeKfwQ8eZMJdRp5_Ro=') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+    position: absolute;
+    right: -224px;
+    bottom: 0px;
+    width: 200px;
+    height: 400px;
+  }
+  .about-images {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 648px;
+    box-sizing: border-box;
+  }
+  .we-provide-the-best-health-care-for-you-and-your-family {
+    overflow-wrap: break-word;
+    font-family: var(--h-1-bold-font-family, 'Lato');
+    font-weight: var(--h-1-bold-font-weight, 700);
+    font-size: var(--h-1-bold-font-size, 48.8px);
+    line-height: var(--h-1-bold-line-height, 1);
+    text-transform: var(--h-1-bold-text-transform, capitalize);
+    color: var(--white-blue-darker, #423155);
+  }
+  .frame-7 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .figma-ipsum-component-variant-main-layer-union-rotate-rotate-follower-pixel-draft-figma-effect-bullet-align-object-bold-auto-editor-comment-strikethrough-duplicate-follower-duplicate-horizontal-duplicate-duplicate-plugin-image-variant-align-thumbnail-share-comment-list-distribute-plugin-image-boolean-scale-list-opacity-style-outline-blur-scrolling-bullet-clip-union-comment-slice-pixel-group-scale-style-duplicate-content-effect-ellipse-export {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #423155;
+  }
+  .frame-8 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .frame-9 {
+    position: relative;
+    margin-bottom: 72px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 47px 79px 0;
+    box-sizing: border-box;
+  }
+  .fontistodoctor {
+    margin: 0 16px 8px 16.5px;
+    width: 32px;
+    height: 32px;
+  }
+  .qualified {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymedmed-font-family, 'Lato');
+    font-weight: var(--bdymedmed-font-weight, 600);
+    font-size: var(--bdymedmed-font-size, 16px);
+    line-height: var(--bdymedmed-line-height, 1);
+    text-transform: var(--bdymedmed-text-transform, capitalize);
+    color: var(--white-blue-darker, #423155);
+  }
+  .doctors {
+    margin: 0 10.4px 0 9.5px;
+    overflow-wrap: break-word;
+    font-family: var(--bdysmallmed-font-family, 'Lato');
+    font-weight: var(--bdysmallmed-font-weight, 600);
+    font-size: var(--bdysmallmed-font-size, 12.8px);
+    line-height: var(--bdysmallmed-line-height, 1);
+    text-transform: var(--bdysmallmed-text-transform, capitalize);
+    color: var(--white-light, #FFFFFF);
+  }
+  .frame-10 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .logoinfo {
+    position: absolute;
+    left: 17px;
+    bottom: 13px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .aboutdoctor {
+    border-radius: 50px;
+    background: #BC8CF2;
+    position: relative;
+    width: 100px;
+    height: 100px;
+  }
+  .carbonhospital-bed {
+    margin: 0 0 8px 0.7px;
+    width: 32px;
+    height: 32px;
+  }
+  .emergency {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymedmed-font-family, 'Lato');
+    font-weight: var(--bdymedmed-font-weight, 600);
+    font-size: var(--bdymedmed-font-size, 16px);
+    line-height: var(--bdymedmed-line-height, 1);
+    text-transform: var(--bdymedmed-text-transform, capitalize);
+    color: #423155;
+  }
+  .services {
+    margin: 0 16.3px 0 16px;
+    overflow-wrap: break-word;
+    font-family: var(--bdysmallmed-font-family, 'Lato');
+    font-weight: var(--bdysmallmed-font-weight, 600);
+    font-size: var(--bdysmallmed-font-size, 12.8px);
+    line-height: var(--bdysmallmed-line-height, 1);
+    text-transform: var(--bdysmallmed-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .frame-11 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .abooutemergency {
+    border-radius: 50px;
+    background: #BC8CF2;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 14px 10.7px 13px 11px;
+    box-sizing: border-box;
+  }
+  .healthiconsheart-organ {
+    margin: 0 1.7px 8.1px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 21.7px;
+    height: 23.9px;
+    box-sizing: border-box;
+  }
+  .group {
+    width: 21.7px;
+    height: 23.9px;
+  }
+  .organ-transplant {
+    margin-bottom: 4px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--bdymedmed-font-family, 'Lato');
+    font-weight: var(--bdymedmed-font-weight, 600);
+    font-size: var(--bdymedmed-font-size, 16px);
+    line-height: var(--bdymedmed-line-height, 1);
+    text-transform: var(--bdymedmed-text-transform, capitalize);
+    color: #423155;
+  }
+  .surgery {
+    margin: 0 15.9px 0 14.6px;
+    overflow-wrap: break-word;
+    font-family: var(--bdysmallmed-font-family, 'Lato');
+    font-weight: var(--bdysmallmed-font-weight, 600);
+    font-size: var(--bdysmallmed-font-size, 12.8px);
+    line-height: var(--bdysmallmed-line-height, 1);
+    text-transform: var(--bdysmallmed-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .frame-13 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .aboutorgan-transplant {
+    border-radius: 50px;
+    background: #BC8CF2;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 12px 12.9px 7px 13.9px;
+    box-sizing: border-box;
+  }
+  .game-iconsmicroscope {
+    margin-bottom: 9.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 24.3px;
+    height: 29.3px;
+    box-sizing: border-box;
+  }
+  .vector-10 {
+    width: 24.3px;
+    height: 29.3px;
+  }
+  .accurate {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymedmed-font-family, 'Lato');
+    font-weight: var(--bdymedmed-font-weight, 600);
+    font-size: var(--bdymedmed-font-size, 16px);
+    line-height: var(--bdymedmed-line-height, 1);
+    text-transform: var(--bdymedmed-text-transform, capitalize);
+    color: #423155;
+  }
+  .testing {
+    margin: 0 11.6px;
+    overflow-wrap: break-word;
+    font-family: var(--bdysmallmed-font-family, 'Lato');
+    font-weight: var(--bdysmallmed-font-weight, 600);
+    font-size: var(--bdysmallmed-font-size, 12.8px);
+    line-height: var(--bdysmallmed-line-height, 1);
+    text-transform: var(--bdysmallmed-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .frame-15 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .testing-11 {
+    border-radius: 50px;
+    background: #BC8CF2;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15.6px 18px 13px 19px;
+    box-sizing: border-box;
+  }
+  .aboutcta {
+    margin: 0 57.3px 0 56px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 48px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-17 {
+    margin: 233px 24.7px 193px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .frame-18 {
+    margin-left: 2px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-19 {
+    border-bottom: 1px solid #FFFFFF;
+    margin-bottom: 36px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0.7px 7px 0;
+    width: 1728px;
+    box-sizing: border-box;
+  }
+  .about-us-12 {
+    margin-bottom: 168px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1728px;
+    box-sizing: border-box;
+  }
+  .alphabets {
+    margin: 0 15.3px 1px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--h-3-reg-font-family, 'Lato');
+    font-weight: var(--h-3-reg-font-weight, 400);
+    font-size: var(--h-3-reg-font-size, 31.3px);
+    line-height: var(--h-3-reg-line-height, 1);
+    text-transform: var(--h-3-reg-text-transform, capitalize);
+    color: #000000;
+  }
+  .a-z {
+    margin-right: 14.5px;
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #737373;
+  }
+  .mdichevron-down {
+    margin: 6.6px 0 6px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 7.4px;
+    box-sizing: border-box;
+  }
+  .vector-13 {
+    width: 12px;
+    height: 7.4px;
+  }
+  .frame-20 {
+    border-radius: 7px;
+    border: 1px solid #737373;
+    display: flex;
+    flex-direction: row;
+    padding: 5px 9px 5px 3px;
+    box-sizing: border-box;
+  }
+  .frame-21 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .search {
+    overflow-wrap: break-word;
+    font-family: var(--bdysmallreg-font-family, 'Lato');
+    font-weight: var(--bdysmallreg-font-weight, 400);
+    font-size: var(--bdysmallreg-font-size, 12.8px);
+    line-height: var(--bdysmallreg-line-height, 1);
+    text-transform: var(--bdysmallreg-text-transform, capitalize);
+    color: var(--white-darkhover, #999999);
+  }
+  .frame-22 {
+    border-radius: 8px 0 0 8px;
+    border: 1px solid var(--white-darkhover, #999999);
+    padding: 7px 15px;
+    width: 734px;
+    box-sizing: border-box;
+  }
+  .mdisearch {
+    border-radius: 0 4px 4px 0;
+    background: var(--white-blue-normalhover, #A97EDA);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 4px 8px 7.5px 8px;
+    width: 33.5px;
+    height: 29px;
+    box-sizing: border-box;
+  }
+  .vector-14 {
+    width: 17.5px;
+    height: 17.5px;
+  }
+  .search-bar {
+    margin: 1.5px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .vector-15 {
+    width: 25.3px;
+    height: 25.3px;
+  }
+  .vector-16 {
+    width: 23.5px;
+    height: 17.5px;
+  }
+  .frame-24 {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 25.3px;
+    height: 25.3px;
+    box-sizing: border-box;
+  }
+  .frame-25 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 23.5px;
+    height: 17.5px;
+    box-sizing: border-box;
+  }
+  .layout {
+    position: relative;
+    padding: 3.3px 0 4.6px 0;
+    width: 75.8px;
+    height: 25.3px;
+    box-sizing: border-box;
+  }
+  .frame-26 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1085.5px;
+    box-sizing: border-box;
+  }
+  .health-library {
+    overflow-wrap: break-word;
+    font-family: var(--h-2-bold-font-family, 'Lato');
+    font-weight: var(--h-2-bold-font-weight, 700);
+    font-size: var(--h-2-bold-font-size, 39.1px);
+    line-height: var(--h-2-bold-line-height, 1);
+    text-transform: var(--h-2-bold-text-transform, capitalize);
+    color: #000000;
+  }
+  .a {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 120px;
+    line-height: 1;
+    text-transform: capitalize;
+    color: var(--white-light, #FFFFFF);
+  }
+  .frame-27 {
+    border-radius: 16px 16px 0 0;
+    background: #A97EDA;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 48px 0.6px 48px 0;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .words-in-this-category {
+    margin-right: 8px;
+    width: 249px;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .1123 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-28 {
+    margin: 0 17.9px 0 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 294.1px;
+    box-sizing: border-box;
+  }
+  .frame-29 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 24px;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .frame-30 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 24px;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .frame-2717 {
+    border-radius: 16px 16px 0 0;
+    background: #A97EDA;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 48px 0.6px 48px 0;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .b {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 120px;
+    line-height: 1;
+    text-transform: capitalize;
+    color: var(--white-light, #FFFFFF);
+  }
+  .frame-2818 {
+    margin: 0 17.9px 0 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 294.1px;
+    box-sizing: border-box;
+  }
+  .words-in-this-category-19 {
+    margin-right: 8px;
+    width: 249px;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .1923 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-31 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 24px;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .frame-2720 {
+    border-radius: 16px 16px 0 0;
+    background: #A97EDA;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 48px 0.3px 48px 0;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .c {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 120px;
+    line-height: 1;
+    text-transform: capitalize;
+    color: var(--white-light, #FFFFFF);
+  }
+  .frame-2821 {
+    margin: 0 17.9px 0 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 294.1px;
+    box-sizing: border-box;
+  }
+  .words-in-this-category-22 {
+    margin-right: 8px;
+    width: 249px;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .192323 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-32 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 24px;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .frame-2724 {
+    border-radius: 16px 16px 0 0;
+    background: #A97EDA;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 48px 0.7px 48px 0;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .d {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 120px;
+    line-height: 1;
+    text-transform: capitalize;
+    color: var(--white-light, #FFFFFF);
+  }
+  .frame-2825 {
+    margin: 0 17.9px 0 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 294.1px;
+    box-sizing: border-box;
+  }
+  .words-in-this-category-26 {
+    margin-right: 8px;
+    width: 249px;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .192327 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .view-in {
+    margin: 4px 8px 5.3px 0;
+    display: inline-block;
+    width: 73.2px;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-33 {
+    margin: 4px 0 2.7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 157px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .search-28 {
+    margin: 0 53.3px 48px 4.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1270.5px;
+    box-sizing: border-box;
+  }
+  .alphabet-library {
+    display: flex;
+    flex-direction: row;
+    column-gap: 16px;
+    width: 1328px;
+    box-sizing: border-box;
+  }
+  .frame-34 {
+    border-bottom: 1px solid #FFFFFF;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 0 15px 0px;
+    width: 1728px;
+    box-sizing: border-box;
+  }
+  .frame-35 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1328px;
+    box-sizing: border-box;
+  }
+  .health-library-29 {
+    margin-bottom: 128px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1728px;
+    box-sizing: border-box;
+  }
+  .consultation-30 {
+    overflow-wrap: break-word;
+    font-family: var(--h-1-bold-font-family, 'Lato');
+    font-weight: var(--h-1-bold-font-weight, 700);
+    font-size: var(--h-1-bold-font-size, 48.8px);
+    line-height: var(--h-1-bold-line-height, 1);
+    text-transform: var(--h-1-bold-text-transform, capitalize);
+    color: #553F6D;
+  }
+  .card {
+    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    background: #DFA8E4;
+    position: absolute;
+    right: -672px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    width: 656px;
+    height: 400px;
+    box-sizing: border-box;
+  }
+  .card-31 {
+    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    background: #DFA8E4;
+    position: absolute;
+    right: -1344px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    width: 656px;
+    height: 400px;
+    box-sizing: border-box;
+  }
+  .carousel {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .mingcuteright-fill {
+    position: relative;
+    margin-bottom: 1.6px;
+    width: 24px;
+    height: 24px;
+  }
+  .vector-32 {
+    position: absolute;
+    top: 6.5px;
+    right: 2px;
+    width: 11.5px;
+    height: 19.1px;
+  }
+  .mingcuteleft-fill {
+    margin-top: 6.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 11.6px;
+    height: 19.1px;
+    box-sizing: border-box;
+  }
+  .vector-33 {
+    width: 11.6px;
+    height: 19.1px;
+  }
+  .frame-37 {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 94px;
+    box-sizing: border-box;
+  }
+  .frame-38 {
+    margin-bottom: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .carousel-34 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .consultation-text {
+    margin: 0 1.9px 48px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .consultation-35 {
+    margin-bottom: 133.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .donate {
+    overflow-wrap: break-word;
+    font-family: var(--h-1-bold-font-family, 'Lato');
+    font-weight: var(--h-1-bold-font-weight, 700);
+    font-size: var(--h-1-bold-font-size, 48.8px);
+    line-height: var(--h-1-bold-line-height, 1);
+    text-transform: var(--h-1-bold-text-transform, capitalize);
+    color: #553F6D;
+  }
+  .rectangle-7 {
+    border-radius: 16px 16px 0 0;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/2f64f50f710c86a307fc6b99bc3539a304725eec?Expires=1712145960&KeyName=fn12-cdn&Signature=z-iORLAhhb2iNMHdlT5un7IylLo=') 50% / cover no-repeat;
+    margin-bottom: 18px;
+    width: 320px;
+    height: 272px;
+  }
+  .kidney {
+    margin-right: 10px;
+    width: 232px;
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #000000;
+  }
+  .200000 {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-39 {
+    margin: 0 1.4px 12px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 310.6px;
+    box-sizing: border-box;
+  }
+  .small-button-button-smallicon-36 {
+    border-radius: 8px;
+    background: #BC8CF2;
+    display: flex;
+    flex-direction: row;
+    padding: 9.5px 19.1px 9.5px 12px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-40 {
+    margin-right: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .kidney-37 {
+    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 16px;
+    box-sizing: border-box;
+  }
+  .liver {
+    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 16px;
+    box-sizing: border-box;
+  }
+  .rectangle-738 {
+    border-radius: 16px 16px 0 0;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/06b922fa4056a5fa22b13853f47d1e27923f71f3?Expires=1712145960&KeyName=fn12-cdn&Signature=6iwWAiw3f2GYgTB3ai_na6kisxM=') 50% / cover no-repeat;
+    margin-bottom: 18px;
+    width: 320px;
+    height: 272px;
+  }
+  .frame-4039 {
+    margin: 0 8px 0 19px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-3940 {
+    margin: 0 0.4px 12px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 292.6px;
+    box-sizing: border-box;
+  }
+  .liver-41 {
+    margin-right: 10px;
+    width: 214px;
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #000000;
+  }
+  .157000 {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .small-button-button-smallicon-42 {
+    border-radius: 8px;
+    background: #BC8CF2;
+    display: flex;
+    flex-direction: row;
+    padding: 9.5px 19.1px 9.5px 12px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .kidney-43 {
+    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: #FFFFFF;
+    position: absolute;
+    right: -336px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 16px;
+    width: 320px;
+    height: 370px;
+    box-sizing: border-box;
+  }
+  .rectangle-744 {
+    border-radius: 16px 16px 0 0;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/2f64f50f710c86a307fc6b99bc3539a304725eec?Expires=1712145960&KeyName=fn12-cdn&Signature=z-iORLAhhb2iNMHdlT5un7IylLo=') 50% / cover no-repeat;
+    margin-bottom: 18px;
+    width: 320px;
+    height: 272px;
+  }
+  .frame-4045 {
+    margin-right: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-3946 {
+    margin: 0 1.4px 12px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 310.6px;
+    box-sizing: border-box;
+  }
+  .kidney-47 {
+    margin-right: 10px;
+    width: 232px;
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #000000;
+  }
+  .20000048 {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .small-button-button-smallicon-49 {
+    border-radius: 8px;
+    background: #BC8CF2;
+    display: flex;
+    flex-direction: row;
+    padding: 9.5px 19.1px 9.5px 12px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .liver-50 {
+    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: #FFFFFF;
+    position: absolute;
+    right: -672px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 16px;
+    width: 320px;
+    height: 370px;
+    box-sizing: border-box;
+  }
+  .rectangle-751 {
+    border-radius: 16px 16px 0 0;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/06b922fa4056a5fa22b13853f47d1e27923f71f3?Expires=1712145960&KeyName=fn12-cdn&Signature=6iwWAiw3f2GYgTB3ai_na6kisxM=') 50% / cover no-repeat;
+    margin-bottom: 18px;
+    width: 320px;
+    height: 272px;
+  }
+  .frame-4052 {
+    margin: 0 8px 0 19px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-3953 {
+    margin: 0 0.4px 12px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 292.6px;
+    box-sizing: border-box;
+  }
+  .liver-54 {
+    margin-right: 10px;
+    width: 214px;
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #000000;
+  }
+  .15700055 {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .small-button-button-smallicon-56 {
+    border-radius: 8px;
+    background: #BC8CF2;
+    display: flex;
+    flex-direction: row;
+    padding: 9.5px 19.1px 9.5px 12px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-41 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    column-gap: 16px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-42 {
+    margin: 0 0.7px 64px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .donate-57 {
+    margin-bottom: 128px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .vacant-jobs {
+    overflow-wrap: break-word;
+    font-family: var(--h-1-bold-font-family, 'Lato');
+    font-weight: var(--h-1-bold-font-weight, 700);
+    font-size: var(--h-1-bold-font-size, 48.8px);
+    line-height: var(--h-1-bold-line-height, 1);
+    text-transform: var(--h-1-bold-text-transform, capitalize);
+    color: #000000;
+  }
+  .kidney-58 {
+    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 16px;
+    box-sizing: border-box;
+  }
+  .rectangle-759 {
+    border-radius: 16px 16px 0 0;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/2f64f50f710c86a307fc6b99bc3539a304725eec?Expires=1712145960&KeyName=fn12-cdn&Signature=z-iORLAhhb2iNMHdlT5un7IylLo=') 50% / cover no-repeat;
+    margin-bottom: 18px;
+    width: 320px;
+    height: 272px;
+  }
+  .frame-4060 {
+    margin-right: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-3961 {
+    margin: 0 1.4px 12px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 310.6px;
+    box-sizing: border-box;
+  }
+  .kidney-62 {
+    margin-right: 10px;
+    width: 232px;
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #000000;
+  }
+  .20000063 {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .small-button-button-smallicon-64 {
+    border-radius: 8px;
+    background: #BC8CF2;
+    display: flex;
+    flex-direction: row;
+    padding: 9.5px 19.1px 9.5px 12px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .liver-65 {
+    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 16px;
+    box-sizing: border-box;
+  }
+  .rectangle-766 {
+    border-radius: 16px 16px 0 0;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/06b922fa4056a5fa22b13853f47d1e27923f71f3?Expires=1712145960&KeyName=fn12-cdn&Signature=6iwWAiw3f2GYgTB3ai_na6kisxM=') 50% / cover no-repeat;
+    margin-bottom: 18px;
+    width: 320px;
+    height: 272px;
+  }
+  .frame-4067 {
+    margin: 0 8px 0 19px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-3968 {
+    margin: 0 0.4px 12px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 292.6px;
+    box-sizing: border-box;
+  }
+  .liver-69 {
+    margin-right: 10px;
+    width: 214px;
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #000000;
+  }
+  .15700070 {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .small-button-button-smallicon-71 {
+    border-radius: 8px;
+    background: #BC8CF2;
+    display: flex;
+    flex-direction: row;
+    padding: 9.5px 19.1px 9.5px 12px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .applicant-form {
+    margin: 0 0 66px 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .application-form {
+    margin: 0 5.9px 64px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--h-2-bold-font-family, 'Lato');
+    font-weight: var(--h-2-bold-font-weight, 700);
+    font-size: var(--h-2-bold-font-size, 39.1px);
+    line-height: var(--h-2-bold-line-height, 1);
+    text-transform: var(--h-2-bold-text-transform, capitalize);
+    color: var(--white-blue-darker, #423155);
+  }
+  .frame-167 {
+    border-radius: 64px;
+    background: #DFA8E4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 64px 32.5px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-166 {
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-157 {
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-139 {
+    margin-right: 16px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .first-name {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--regularheader-5-font-family, 'Roboto');
+    font-weight: var(--regularheader-5-font-weight, 400);
+    font-size: var(--regularheader-5-font-size, 24px);
+    color: #000000;
+  }
+  .rectangle-35 {
+    box-shadow: var(--penumbra-8-dp, 0px 3px 14px 3px rgba(0, 0, 0, 0.12));
+    border-radius: 8px;
+    background: #FFFFFF;
+    width: 544px;
+    height: 92px;
+  }
+  .frame-140 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .last-name {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--regularheader-5-font-family, 'Roboto');
+    font-weight: var(--regularheader-5-font-weight, 400);
+    font-size: var(--regularheader-5-font-size, 24px);
+    color: #000000;
+  }
+  .rectangle-3572 {
+    box-shadow: var(--penumbra-8-dp, 0px 3px 14px 3px rgba(0, 0, 0, 0.12));
+    border-radius: 8px;
+    background: #FFFFFF;
+    width: 544px;
+    height: 92px;
+  }
+  .frame-158 {
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .email {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--regularheader-5-font-family, 'Roboto');
+    font-weight: var(--regularheader-5-font-weight, 400);
+    font-size: var(--regularheader-5-font-size, 24px);
+    color: #000000;
+  }
+  .rectangle-3573 {
+    box-shadow: var(--penumbra-8-dp, 0px 3px 14px 3px rgba(0, 0, 0, 0.12));
+    border-radius: 8px;
+    background: #FFFFFF;
+    width: 1104px;
+    height: 92px;
+  }
+  .frame-145 {
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .phone {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--regularheader-5-font-family, 'Roboto');
+    font-weight: var(--regularheader-5-font-weight, 400);
+    font-size: var(--regularheader-5-font-size, 24px);
+    color: #000000;
+  }
+  .rectangle-3574 {
+    box-shadow: var(--penumbra-8-dp, 0px 3px 14px 3px rgba(0, 0, 0, 0.12));
+    border-radius: 8px;
+    background: #FFFFFF;
+    width: 1104px;
+    height: 92px;
+  }
+  .frame-163 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .state-of-residence {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--regularheader-5-font-family, 'Roboto');
+    font-weight: var(--regularheader-5-font-weight, 400);
+    font-size: var(--regularheader-5-font-size, 24px);
+    color: #000000;
+  }
+  .frame-147 {
+    box-shadow: var(--penumbra-8-dp, 0px 3px 14px 3px rgba(0, 0, 0, 0.12));
+    border-radius: 8px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 32.5px 21.4px 32.5px 32px;
+    width: 1104px;
+    box-sizing: border-box;
+  }
+  .oyo {
+    margin-right: 11.5px;
+    width: 1025.8px;
+    overflow-wrap: break-word;
+    font-family: var(--regularheader-6-font-family, 'Roboto');
+    font-weight: var(--regularheader-6-font-weight, 400);
+    font-size: var(--regularheader-6-font-size, 20px);
+    letter-spacing: var(--regularheader-6-letter-spacing, 0.2px);
+    color: #000000;
+  }
+  .mingcuteleft-line {
+    margin: 7.8px 0 7.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 13.3px;
+    height: 7.7px;
+    box-sizing: border-box;
+  }
+  .vector-75 {
+    width: 13.3px;
+    height: 7.7px;
+  }
+  .card-76 {
+    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    background: #DFA8E4;
+    margin-right: 16px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .card-77 {
+    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.25);
+    background: #DFA8E4;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .container {
+    margin-right: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    box-sizing: border-box;
+  }
+  .frame-168 {
+    margin: 0 1.4px 64px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .large-button {
+    border-radius: 8px;
+    background: #644C67;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 17.5px 0.4px 17.5px 0;
+    width: 655px;
+    box-sizing: border-box;
+  }
+  .image-1 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/cf0671ed43119cfdc6e6e85aa0e660535250c18e?Expires=1712145960&KeyName=fn12-cdn&Signature=SxA1MF2UDioxlXUgSEBrf6vwmEA=');
+    margin-bottom: 40px;
+    align-self: flex-start;
+    width: 80px;
+    height: 80px;
+  }
+  .image-178 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/cf0671ed43119cfdc6e6e85aa0e660535250c18e?Expires=1712145960&KeyName=fn12-cdn&Signature=SxA1MF2UDioxlXUgSEBrf6vwmEA=');
+    margin-right: 8px;
+    width: 48px;
+    height: 48px;
+  }
+  .swi-care-exist-for-your-wellbeing-we-provide-24-hrs-healthcare-services {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .facebook {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    box-sizing: border-box;
+  }
+  .vector-79 {
+    width: 20px;
+    height: 20px;
+  }
+  .instagram {
+    margin: 1px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box;
+  }
+  .vector-80 {
+    width: 18px;
+    height: 18px;
+  }
+  .discord {
+    margin: 1.9px 0 1.8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 22px;
+    height: 16.3px;
+    box-sizing: border-box;
+  }
+  .vector-81 {
+    width: 22px;
+    height: 16.3px;
+  }
+  .twitter-x {
+    margin: 1px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.5px;
+    height: 18px;
+    box-sizing: border-box;
+  }
+  .vector-82 {
+    width: 19.5px;
+    height: 18px;
+  }
+  .frame-169 {
+    margin-left: 2.4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 187.6px;
+    box-sizing: border-box;
+  }
+  .health-library-83 {
+    margin: 0 16.6px 40px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .donate-84 {
+    margin-bottom: 40px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .apply {
+    margin-bottom: 40px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .aagenaes-syndrome {
+    margin-bottom: 32px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .aarskog-syndrome {
+    margin: 0 11.2px 32px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .babesiosis {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .bacterial-vaginosis {
+    margin-right: 12px;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .frame-170 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .liver-85 {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .kidney-86 {
+    margin: 0 13.9px 32px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .heart {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .pancreas {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .frame-171 {
+    margin-right: 2.8px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .patron {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .ward-attendant {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .nurse {
+    margin-bottom: 32px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .security-officer {
+    margin: 0 2px 32px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .frame-172 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .healt-library {
+    margin: 64.3px 36.6px 41.8px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .frame-174 {
+    margin-bottom: 66px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .donate-87 {
+    margin: 64.3px 36.5px 41.8px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .apply-88 {
+    margin: 64.3px 36.3px 41.8px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .newsletter {
+    margin-bottom: 48px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .sign-up {
+    overflow-wrap: break-word;
+    font-family: var(--bdylargebold-font-family, 'Lato');
+    font-weight: var(--bdylargebold-font-weight, 700);
+    font-size: var(--bdylargebold-font-size, 20px);
+    line-height: var(--bdylargebold-line-height, 1);
+    text-transform: var(--bdylargebold-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .frame-177 {
+    border-radius: 0 16px 16px 0;
+    background: var(--violet-normal, #A77DDB);
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 11.5px 12.4px 11.5px 12px;
+    box-sizing: border-box;
+  }
+  .enter-e-mail {
+    overflow-wrap: break-word;
+    font-family: var(--bdysmallreg-font-family, 'Lato');
+    font-weight: var(--bdysmallreg-font-weight, 400);
+    font-size: var(--bdysmallreg-font-size, 12.8px);
+    line-height: var(--bdysmallreg-line-height, 1);
+    text-transform: var(--bdysmallreg-text-transform, capitalize);
+    color: #7D7D7D;
+  }
+  .frame-178 {
+    border-radius: 16px 0 0 16px;
+    background: #FFFFFF;
+    position: relative;
+    padding: 15px 16px;
+    box-sizing: border-box;
+  }
+  .newslettersignup {
+    position: relative;
+    width: 317px;
+    box-sizing: border-box;
+  }
+  .pfeffer-lake-ernserview-756364673 {
+    margin: 8px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .swi-care-centergmail-com {
+    margin: 2.7px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .location-on {
+    margin-right: 8px;
+    width: 32px;
+    height: 32px;
+  }
+  .email-91 {
+    margin-right: 10.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 26.7px;
+    height: 21.3px;
+    box-sizing: border-box;
+  }
+  .vector-92 {
+    width: 26.7px;
+    height: 21.3px;
+  }
+  .call {
+    margin: 4px 12px 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .vector-93 {
+    width: 24px;
+    height: 24px;
+  }
+  .frame-179 {
+    margin-bottom: 21.3px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-180 {
+    margin: 0 2.7px 21.3px 2.7px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .9271972 {
+    margin-bottom: 12px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .frame-181 {
+    margin: 0 4px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .demographic-info {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .slogan {
+    margin-right: 68.8px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-183 {
+    margin-bottom: 28px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .contact-us {
+    overflow-wrap: break-word;
+    font-family: var(--bdylargemed-font-family, 'Lato');
+    font-weight: var(--bdylargemed-font-weight, 600);
+    font-size: var(--bdylargemed-font-size, 20px);
+    line-height: var(--bdylargemed-line-height, 1);
+    text-transform: var(--bdylargemed-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .frame-184 {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .frame-185 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-186 {
+    margin: 68.8px 0 48.3px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .footer-section-1 {
+    background: #423155;
+    display: flex;
+    flex-direction: row;
+    padding: 32px 0 54.5px 0;
+    width: 1728px;
+    box-sizing: border-box;
+  }
+  .button {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12.8px;
+    color: #FFFFFF;
+  }
+  .button-94 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 12.8px;
+    color: #BC8CF2;
+  }
+  .home-95 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymedbold-font-family, 'Lato');
+    font-weight: var(--bdymedbold-font-weight, 700);
+    font-size: var(--bdymedbold-font-size, 16px);
+    line-height: var(--bdymedbold-line-height, 1);
+    text-transform: var(--bdymedbold-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .about-us-96 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymedbold-font-family, 'Lato');
+    font-weight: var(--bdymedbold-font-weight, 700);
+    font-size: var(--bdymedbold-font-size, 16px);
+    line-height: var(--bdymedbold-line-height, 1);
+    text-transform: var(--bdymedbold-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .consultation-97 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymedbold-font-family, 'Lato');
+    font-weight: var(--bdymedbold-font-weight, 700);
+    font-size: var(--bdymedbold-font-size, 16px);
+    line-height: var(--bdymedbold-line-height, 1);
+    text-transform: var(--bdymedbold-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .health-library-98 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymedbold-font-family, 'Lato');
+    font-weight: var(--bdymedbold-font-weight, 700);
+    font-size: var(--bdymedbold-font-size, 16px);
+    line-height: var(--bdymedbold-line-height, 1);
+    text-transform: var(--bdymedbold-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .donation-99 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymedbold-font-family, 'Lato');
+    font-weight: var(--bdymedbold-font-weight, 700);
+    font-size: var(--bdymedbold-font-size, 16px);
+    line-height: var(--bdymedbold-line-height, 1);
+    text-transform: var(--bdymedbold-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .job-vacancy {
+    overflow-wrap: break-word;
+    font-family: var(--bdymedbold-font-family, 'Lato');
+    font-weight: var(--bdymedbold-font-weight, 700);
+    font-size: var(--bdymedbold-font-size, 16px);
+    line-height: var(--bdymedbold-line-height, 1);
+    text-transform: var(--bdymedbold-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .button-100 {
+    margin-right: 5.6px;
+    overflow-wrap: break-word;
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+  }
+  .typcnarrow-right {
+    margin: 3.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8.3px;
+    height: 6.7px;
+    box-sizing: border-box;
+  }
+  .vector-101 {
+    width: 8.3px;
+    height: 6.7px;
+  }
+  .rectangle-1102 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/5f40acb40c5e5847a803ad1e49768c33c94ed9d0?Expires=1712145960&KeyName=fn12-cdn&Signature=8tXnEfbGrZXcwevZFgfSObOyWqM=');
+    margin-right: 16px;
+    width: 320px;
+    height: 400px;
+  }
+  .nawal-m-nour {
+    margin-bottom: 8px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--h-3-bold-font-family, 'Lato');
+    font-weight: var(--h-3-bold-font-weight, 700);
+    font-size: var(--h-3-bold-font-size, 31.3px);
+    line-height: var(--h-3-bold-line-height, 1);
+    text-transform: var(--h-3-bold-text-transform, capitalize);
+    color: #000000;
+  }
+  .gynecology-specialist {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 12.8px;
+    line-height: 1;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  .availability-status {
+    margin-right: 8.6px;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .yes {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-5103 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .dr-nawal-m-nour-is-a-sudanese-american-obstetrician-and-gynecologist-at-brigham-and-womens-hospital-she-received-the-prestigious-2003-mac-arthur-fellowship-also-known-as-the-genius-award {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    text-transform: capitalize;
+  }
+  .dr-nawal-m-nour-is-a-sudanese-american-obstetrician-and-gynecologist-at-brigham-and-womens-hospital-she-received-the-prestigious-2003-mac-arthur-fellowship-also-known-as-the-genius-award-sub6 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    text-transform: capitalize;
+  }
+  .achievements {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-6 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-7104 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-8105 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-10106 {
+    border-bottom: 1px solid #CDCDCD;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .primetwitter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 32px;
+    height: 29px;
+    box-sizing: border-box;
+  }
+  .vector-107 {
+    width: 32px;
+    height: 29px;
+  }
+  .flowbitefacebook-solid {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 10.7px;
+    height: 25.3px;
+    box-sizing: border-box;
+  }
+  .vector-108 {
+    width: 10.7px;
+    height: 25.3px;
+  }
+  .primeinstagram {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 21.3px;
+    height: 21.3px;
+    box-sizing: border-box;
+  }
+  .vector-109 {
+    width: 21.3px;
+    height: 21.3px;
+  }
+  .facebook-111 {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    padding: 12px 17.3px 10.7px 17.3px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .insta {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 13.4px 13.4px 13.3px 13.4px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .frame-11114 {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 9.5px 8px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .frame-12 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 192px;
+    box-sizing: border-box;
+  }
+  .frame-13115 {
+    margin-bottom: 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .rectangle-1116 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/353584d19dcd53bf23a74f1b0323d288c2c6ed25?Expires=1712145960&KeyName=fn12-cdn&Signature=evgJgIuGAmc-Km_C9u-l-qN_4Bg=');
+    margin-right: 16px;
+    width: 320px;
+    height: 400px;
+  }
+  .nawal-m-nour-117 {
+    margin-bottom: 8px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--h-3-bold-font-family, 'Lato');
+    font-weight: var(--h-3-bold-font-weight, 700);
+    font-size: var(--h-3-bold-font-size, 31.3px);
+    line-height: var(--h-3-bold-line-height, 1);
+    text-transform: var(--h-3-bold-text-transform, capitalize);
+    color: #000000;
+  }
+  .gynecology-specialist-118 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 12.8px;
+    line-height: 1;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  .availability-status-119 {
+    margin-right: 8.6px;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .yes-120 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-5121 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .dr-nawal-m-nour-is-a-sudanese-american-obstetrician-and-gynecologist-at-brigham-and-womens-hospital-she-received-the-prestigious-2003-mac-arthur-fellowship-also-known-as-the-genius-award-122 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    text-transform: capitalize;
+  }
+  .dr-nawal-m-nour-is-a-sudanese-american-obstetrician-and-gynecologist-at-brigham-and-womens-hospital-she-received-the-prestigious-2003-mac-arthur-fellowship-also-known-as-the-genius-award-122-sub6 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    text-transform: capitalize;
+  }
+  .achievements-123 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-6124 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-7125 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-8126 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-10127 {
+    border-bottom: 1px solid #CDCDCD;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .primetwitter-128 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 32px;
+    height: 29px;
+    box-sizing: border-box;
+  }
+  .vector-129 {
+    width: 32px;
+    height: 29px;
+  }
+  .flowbitefacebook-solid-130 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 10.7px;
+    height: 25.3px;
+    box-sizing: border-box;
+  }
+  .vector-131 {
+    width: 10.7px;
+    height: 25.3px;
+  }
+  .primeinstagram-132 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 21.3px;
+    height: 21.3px;
+    box-sizing: border-box;
+  }
+  .vector-133 {
+    width: 21.3px;
+    height: 21.3px;
+  }
+  .facebook-135 {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    padding: 12px 17.3px 10.7px 17.3px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .insta-137 {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 13.4px 13.4px 13.3px 13.4px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .frame-11139 {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 9.5px 8px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .frame-12140 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 192px;
+    box-sizing: border-box;
+  }
+  .frame-13141 {
+    margin-bottom: 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .button-142 {
+    margin-right: 5.5px;
+    overflow-wrap: break-word;
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+  }
+  .typcnarrow-right-143 {
+    margin: 3.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8.3px;
+    height: 6.7px;
+    box-sizing: border-box;
+  }
+  .vector-144 {
+    width: 8.3px;
+    height: 6.7px;
+  }
+  .button-145 {
+    margin-right: 5.5px;
+    overflow-wrap: break-word;
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+  }
+  .typcnarrow-right-146 {
+    margin: 3.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8.3px;
+    height: 6.7px;
+    box-sizing: border-box;
+  }
+  .vector-147 {
+    width: 8.3px;
+    height: 6.7px;
+  }
+  .button-148 {
+    margin-right: 5.5px;
+    overflow-wrap: break-word;
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+  }
+  .typcnarrow-right-149 {
+    margin: 3.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8.3px;
+    height: 6.7px;
+    box-sizing: border-box;
+  }
+  .vector-150 {
+    width: 8.3px;
+    height: 6.7px;
+  }
+  .button-151 {
+    margin-right: 5.5px;
+    overflow-wrap: break-word;
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+  }
+  .typcnarrow-right-152 {
+    margin: 3.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8.3px;
+    height: 6.7px;
+    box-sizing: border-box;
+  }
+  .vector-153 {
+    width: 8.3px;
+    height: 6.7px;
+  }
+  .button-154 {
+    margin-right: 5.5px;
+    overflow-wrap: break-word;
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+  }
+  .typcnarrow-right-155 {
+    margin: 3.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8.3px;
+    height: 6.7px;
+    box-sizing: border-box;
+  }
+  .vector-156 {
+    width: 8.3px;
+    height: 6.7px;
+  }
+  .button-157 {
+    margin-right: 5.5px;
+    overflow-wrap: break-word;
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+  }
+  .typcnarrow-right-158 {
+    margin: 3.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8.3px;
+    height: 6.7px;
+    box-sizing: border-box;
+  }
+  .vector-159 {
+    width: 8.3px;
+    height: 6.7px;
+  }
+  .rectangle-1160 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/5f40acb40c5e5847a803ad1e49768c33c94ed9d0?Expires=1712145960&KeyName=fn12-cdn&Signature=8tXnEfbGrZXcwevZFgfSObOyWqM=');
+    margin-right: 16px;
+    width: 320px;
+    height: 400px;
+  }
+  .nawal-m-nour-161 {
+    margin-bottom: 8px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--h-3-bold-font-family, 'Lato');
+    font-weight: var(--h-3-bold-font-weight, 700);
+    font-size: var(--h-3-bold-font-size, 31.3px);
+    line-height: var(--h-3-bold-line-height, 1);
+    text-transform: var(--h-3-bold-text-transform, capitalize);
+    color: #000000;
+  }
+  .gynecology-specialist-162 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 12.8px;
+    line-height: 1;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  .availability-status-163 {
+    margin-right: 8.6px;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .yes-164 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-5165 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .dr-nawal-m-nour-is-a-sudanese-american-obstetrician-and-gynecologist-at-brigham-and-womens-hospital-she-received-the-prestigious-2003-mac-arthur-fellowship-also-known-as-the-genius-award-166 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    text-transform: capitalize;
+  }
+  .dr-nawal-m-nour-is-a-sudanese-american-obstetrician-and-gynecologist-at-brigham-and-womens-hospital-she-received-the-prestigious-2003-mac-arthur-fellowship-also-known-as-the-genius-award-166-sub6 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    text-transform: capitalize;
+  }
+  .achievements-167 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-6168 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-7169 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-8170 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-10171 {
+    border-bottom: 1px solid #CDCDCD;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .primetwitter-172 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 32px;
+    height: 29px;
+    box-sizing: border-box;
+  }
+  .vector-173 {
+    width: 32px;
+    height: 29px;
+  }
+  .flowbitefacebook-solid-174 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 10.7px;
+    height: 25.3px;
+    box-sizing: border-box;
+  }
+  .vector-175 {
+    width: 10.7px;
+    height: 25.3px;
+  }
+  .primeinstagram-176 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 21.3px;
+    height: 21.3px;
+    box-sizing: border-box;
+  }
+  .vector-177 {
+    width: 21.3px;
+    height: 21.3px;
+  }
+  .facebook-179 {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 12px 20px 10.7px 17.3px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .insta-181 {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 13.4px 13.4px 13.3px 13.4px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .frame-11183 {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 9.5px 8px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .frame-12184 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 192px;
+    box-sizing: border-box;
+  }
+  .frame-13185 {
+    margin-bottom: 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .rectangle-1186 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/353584d19dcd53bf23a74f1b0323d288c2c6ed25?Expires=1712145960&KeyName=fn12-cdn&Signature=evgJgIuGAmc-Km_C9u-l-qN_4Bg=');
+    margin-right: 16px;
+    width: 320px;
+    height: 400px;
+  }
+  .nawal-m-nour-187 {
+    margin-bottom: 8px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--h-3-bold-font-family, 'Lato');
+    font-weight: var(--h-3-bold-font-weight, 700);
+    font-size: var(--h-3-bold-font-size, 31.3px);
+    line-height: var(--h-3-bold-line-height, 1);
+    text-transform: var(--h-3-bold-text-transform, capitalize);
+    color: #000000;
+  }
+  .gynecology-specialist-188 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 12.8px;
+    line-height: 1;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  .availability-status-189 {
+    margin-right: 8.6px;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .yes-190 {
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-5191 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .dr-nawal-m-nour-is-a-sudanese-american-obstetrician-and-gynecologist-at-brigham-and-womens-hospital-she-received-the-prestigious-2003-mac-arthur-fellowship-also-known-as-the-genius-award-192 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    text-transform: capitalize;
+  }
+  .dr-nawal-m-nour-is-a-sudanese-american-obstetrician-and-gynecologist-at-brigham-and-womens-hospital-she-received-the-prestigious-2003-mac-arthur-fellowship-also-known-as-the-genius-award-192-sub6 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+    text-transform: capitalize;
+  }
+  .achievements-193 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--bdymediumreg-font-family, 'Lato');
+    font-weight: var(--bdymediumreg-font-weight, 400);
+    font-size: var(--bdymediumreg-font-size, 16px);
+    line-height: var(--bdymediumreg-line-height, 1);
+    text-transform: var(--bdymediumreg-text-transform, capitalize);
+    color: #000000;
+  }
+  .frame-6194 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-7195 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-8196 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-10197 {
+    border-bottom: 1px solid #CDCDCD;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .primetwitter-198 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 32px;
+    height: 29px;
+    box-sizing: border-box;
+  }
+  .vector-199 {
+    width: 32px;
+    height: 29px;
+  }
+  .flowbitefacebook-solid-200 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 10.7px;
+    height: 25.3px;
+    box-sizing: border-box;
+  }
+  .vector-201 {
+    width: 10.7px;
+    height: 25.3px;
+  }
+  .primeinstagram-202 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 21.3px;
+    height: 21.3px;
+    box-sizing: border-box;
+  }
+  .vector-203 {
+    width: 21.3px;
+    height: 21.3px;
+  }
+  .facebook-205 {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    padding: 12px 17.3px 10.7px 17.3px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .insta-207 {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 13.4px 13.4px 13.3px 13.4px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .frame-11209 {
+    border-radius: 24px;
+    background: #A97EDA;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 9.5px 8px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .frame-12210 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 192px;
+    box-sizing: border-box;
+  }
+  .frame-13211 {
+    margin-bottom: 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .button-212 {
+    overflow-wrap: break-word;
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }

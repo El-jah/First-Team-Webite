@@ -1,3 +1,66 @@
+header{
+    background-color: rgb(65, 4, 94);
+    position: relative;
+    margin: -10px;
+    padding-left: 50px;
+    background-size: cover;
+    height: 80px;
+}
+a:link, a:visited{
+    text-decoration: none;
+    color: white; /*Change link color to white once background has been found*/
+}
+a:hover{
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+}
+.active{
+    color: white;
+    height: fit-content;
+    width: fit-content;
+    border: 1px solid mediumpurple;
+    border-radius: 10px 10px 0 0;
+    padding: 20px;
+    background-color: mediumpurple;
+}
+.nav_item{
+    display: inline-block;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    
+}
+li{
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: 0;
+    left: 240px;
+}
+#logo-image{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: -10px;
+    left: 20px;
+}
+#reg_btn{
+    position: absolute;
+    top: 20px;
+    right: 0;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: mediumpurple;
+}
 .box_1{
     width: 1200px;
     height: 400px;
@@ -11,10 +74,25 @@
     position: relative;
     right: 30px;
     top: 30px;}
+
+.bod_btn{
+    display: inline-block;
+    width: 220px;
+    color: white;
+    background-color: mediumpurple;
+    font-size: medium;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    padding: 15px;
+
+}
+
 .box{
     width: 1210px;
     height: 450px;
     padding: 10px;
+    margin-bottom: 50px;
     position: relative;
     left: 30px;
     top: 30px;}
@@ -74,33 +152,40 @@
     left: 830px;
 }
 .image{
+    display: inline;
     width: 100px;
     height: 200px;
     border-radius: 15px;
     box-shadow: 5px 5px 5px grey}
 #amb{
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/f99e013ea3fb0278baee34bffc169c2adcede744?Expires=1712145960&KeyName=fn12-cdn&Signature=C7004CWslvTGknkvHoPrzjtG_SU=') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
     position: absolute;
     top: 0;
     right: 0;
     padding-bottom: 5px;}
 #dent{
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/2384a4f24106a46c0b5c2a0ae6ebec8a96995738?Expires=1712145960&KeyName=fn12-cdn&Signature=OZqU1RejQSeKfwQ8eZMJdRp5_Ro=') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
     position: absolute;
     bottom: 0;
     right: 0;}
-#dwp{
+#syr{
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/31f11fe1ee0abafd4da92ca304b4239ecedda77f?Expires=1712145960&KeyName=fn12-cdn&Signature=7QcTot4TD4BOdJY67F5W5VqELEM=') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
     position: absolute;
     right: 100px;
     top: 25%;
     padding-right: 15px;}
-#syr{
+#dwp{
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/a5af85224d88e9d1eb326bbe0888c23ed83fa0c8?Expires=1712145960&KeyName=fn12-cdn&Signature=W8Qbp6V4mUmpUoO8lrGFm1yf4Y4=') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
     position: absolute;
     top: 0;
     right: 230px;}
 #brth{
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/64b5355ec16e73288601ebe21947f7fb7c9516b5?Expires=1712145960&KeyName=fn12-cdn&Signature=B7LQyaBsQCbHyMxPriL7bn5gtvE=') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
     position: absolute;
     bottom: 5px;
     right: 230px;}
 #surg{
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/HTXZnj4BWMCMEvDL5xFdR/assets/images/e49bfb192e457af8e4ee03eccb3ce569de4fce09?Expires=1712145960&KeyName=fn12-cdn&Signature=0tpTuxm4V6w760nqVv3GfJ0Nh2M=') 50% / cover no-repeat;
     position: absolute;
     right: 345px;
     top: 25%;}
@@ -123,4 +208,23 @@ h5{ text-indent: 15px; display: inline;}
 span{position: absolute;
     right: 15px;
     bottom: 0;
-    color: blueviolet;}   
+    color: blueviolet;}
+footer{
+    position: relative;
+    background-color: rgb(65, 4, 94);
+    background-size: cover;
+    height: 420px;
+    margin: -10px;
+}
+#c_rights{
+    margin-left: 3%;
+}
+#g_name{
+    right: 0;
+    margin-right: 1%;
+}
+.span{
+    position: absolute;
+    bottom: 10px;
+    color: white;
+}  
